@@ -1,6 +1,6 @@
 # Althaf A
 
-## Role: Fullstack Developer and Machine Learning Engineer
+## Fullstack Developer and Machine Learning Engineer
 
 **Experience:** Over 2 years
 
